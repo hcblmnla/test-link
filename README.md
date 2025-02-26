@@ -1,5 +1,3 @@
 # test-link
 
-Test repository
-
-Bot?
+Check
