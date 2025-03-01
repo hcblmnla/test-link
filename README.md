@@ -1,3 +1,3 @@
 # test-link
 
-Check deploy 2
+Check deploy yes
