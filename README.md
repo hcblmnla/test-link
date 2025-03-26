@@ -1,3 +1,3 @@
 # test-link
 
-dbms check
+dbms check pr
