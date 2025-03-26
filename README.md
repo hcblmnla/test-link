@@ -1,3 +1,3 @@
 # test-link
 
-правки проверка
+dbms check
